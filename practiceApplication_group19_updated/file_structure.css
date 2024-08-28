@@ -1,0 +1,13 @@
+/*school_assessment/
+│
+├── main.py
+├── data_processing.py
+├── web_data_retrieval.py
+├── analysis.py
+├── summary_generator.py
+├── custom_exceptions.py
+└── datasets/
+    ├── assessment_data.csv
+    ├── additional_data.xlsx
+    └── custom_dataset.csv
+*/
